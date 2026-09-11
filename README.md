@@ -377,7 +377,7 @@ Pris ensemble, ces trois résultats esquissent une histoire cohérente : ce n'es
 Sur Mac, dans le Terminal, avec l'environnement virtuel Python activé :
 
 ```bash
-cd ~/Documents/whale-lang
+cd ~/Documents/whale-alphabet-emergence
 source venv/bin/activate
 python3 run_experiment.py     # H1 : effet du goulot de transmission
 python3 run_experiment_h2.py  # H2 : sélection par précision de communication
