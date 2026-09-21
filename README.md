@@ -397,3 +397,4 @@ Les trois scripts partagent le même module `iterated_learning.py`. Chacun gén�
 - Brighton, H. & Kirby, S. (2006). *Understanding linguistic evolution by visualizing the emergence of topographic mappings* — « Comprendre l'évolution linguistique en visualisant l'émergence de correspondances topographiques ». Artificial Life. (Fondement théorique de H1)
 - Chaabouni, R. et al. (2020). *Compositionality and generalization in emergent languages* — « Compositionnalité et généralisation dans les langages émergents ». ACL. (Base de la discussion de H2)
 - Ter Haar, S.M. et al. (2021). *Cross-species parallels in babbling: animals and algorithms* — « Parallèles inter-espèces dans le babillage : animaux et algorithmes ». Philos. Trans. R. Soc. B. (Justification biologique du bruit de copie, section 2.7)
+- Ego - "Comment comprendre le langage des aliens ?", sur YouTube
