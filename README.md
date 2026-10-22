@@ -61,3 +61,5 @@ Runs are seeded and deterministic; `python3 test_model.py` runs sanity checks. C
 ## License
 
 MIT
+
+*This is my project. Claude (an AI assistant) helped with the code and writing; the question, the decisions and the conclusions are mine.*
